@@ -8,3 +8,9 @@ In linear algebra, the singular value decomposition (SVD) is a factorization of 
 quantile-quantile plot to compare normal distribution
 
 ####　what is p-value:
+P Values. The P value, or calculated probability, is the probability of finding the observed, or more extreme, results when the null hypothesis (H 0) of a study question is true – the definition of 'extreme' depends on how the hypothesis is being tested.
+
+
+#### determine the number of K
+The Elbow Method
+Choosing k Using the Silhouette[edit]
